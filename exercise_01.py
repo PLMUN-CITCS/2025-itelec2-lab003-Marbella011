@@ -1,3 +1,4 @@
+
 count = 10                  # 10 is an integer literal
 decimal_value = 3.14        # 3.14 is a float literal
 
