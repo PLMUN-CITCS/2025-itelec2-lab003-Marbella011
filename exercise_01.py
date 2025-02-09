@@ -1,7 +1,3 @@
-# Marbella Bernard 
-# ITELEC2
-# Laboratory #03 – Guided Coding Exercise:
-# Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
 count = 10                   # 'count' is assigned 10 (integer literal)
 Count = 15                   # 'Count' (different from 'count') is assigned 15
 decimal_value = 3.14         # 'decimal_value' is assigned 3.14 (float literal)
@@ -25,4 +21,4 @@ print("None Value:", result)
 # Example of inline arithmetic with formatting using an f-string:
 num1 = 5
 num2 = 3
-
+print(f"The sum of {num1} and {num2} is {num1 + num2}.")
